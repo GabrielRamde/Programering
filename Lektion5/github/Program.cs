@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace github
+namespace metoder
 {
     class Program
     {
